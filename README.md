@@ -16,7 +16,7 @@ Before getting started, make sure you have Node.js and Expo CLI installed on you
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/hillary-gor/Area1.git)
    cd Area1
    ```
 
